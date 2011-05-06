@@ -22,12 +22,12 @@
 		0ABA68341374899C00BD56F3 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		0ABA68351374899C00BD56F3 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		0ABA68361374899C00BD56F3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		0ABA68391374899C00BD56F3 /* MyProject-Info.plist */ = {isa = PBXFileReference; path = "MyProject-Info.plist"; sourceTree = "<group>"; };
+		0ABA68391374899C00BD56F3 /* MyProject-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MyProject-Info.plist"; sourceTree = "<group>"; };
 		0ABA683B1374899C00BD56F3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0ABA683D1374899C00BD56F3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0ABA683F1374899C00BD56F3 /* MyProject-Prefix.pch */ = {isa = PBXFileReference; path = "MyProject-Prefix.pch"; sourceTree = "<group>"; };
+		0ABA683F1374899C00BD56F3 /* MyProject-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyProject-Prefix.pch"; sourceTree = "<group>"; };
 		0ABA68411374899C00BD56F3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
-		0ABA68431374899C00BD56F3 /* MyProjectAppDelegate.h */ = {isa = PBXFileReference; path = MyProjectAppDelegate.h; sourceTree = "<group>"; };
+		0ABA68431374899C00BD56F3 /* MyProjectAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyProjectAppDelegate.h; sourceTree = "<group>"; };
 		0ABA68441374899C00BD56F3 /* MyProjectAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyProjectAppDelegate.m; sourceTree = "<group>"; };
 		0ABA68471374899C00BD56F3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		0ABA684A1374899C00BD56F3 /* MyProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyProject.xcdatamodel; sourceTree = "<group>"; };

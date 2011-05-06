@@ -11,6 +11,11 @@
 @implementation MyProjectAppDelegate
 
 @synthesize window;
+@synthesize imageView = _imageView;
+
+- (IBAction)awesomeAction:(id)sender {
+    NSLog(@"do something awesome");
+}
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {

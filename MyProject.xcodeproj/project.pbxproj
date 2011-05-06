@@ -15,6 +15,8 @@
 		0ABA68481374899C00BD56F3 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0ABA68461374899C00BD56F3 /* MainMenu.xib */; };
 		0ABA684B1374899C00BD56F3 /* MyProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0ABA68491374899C00BD56F3 /* MyProject.xcdatamodeld */; };
 		0ABA685613748A1700BD56F3 /* scm.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0ABA685513748A1700BD56F3 /* scm.jpeg */; };
+		0ABA685913748AA200BD56F3 /* svn-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0ABA685813748AA200BD56F3 /* svn-logo.png */; };
+		0ABA685B13748AAB00BD56F3 /* git-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0ABA685A13748AAB00BD56F3 /* git-logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,8 @@
 		0ABA68471374899C00BD56F3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		0ABA684A1374899C00BD56F3 /* MyProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyProject.xcdatamodel; sourceTree = "<group>"; };
 		0ABA685513748A1700BD56F3 /* scm.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = scm.jpeg; sourceTree = "<group>"; };
+		0ABA685813748AA200BD56F3 /* svn-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "svn-logo.png"; sourceTree = "<group>"; };
+		0ABA685A13748AAB00BD56F3 /* git-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "git-logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,8 @@
 			isa = PBXGroup;
 			children = (
 				0ABA685513748A1700BD56F3 /* scm.jpeg */,
+				0ABA685813748AA200BD56F3 /* svn-logo.png */,
+				0ABA685A13748AAB00BD56F3 /* git-logo.png */,
 				0ABA68391374899C00BD56F3 /* MyProject-Info.plist */,
 				0ABA683A1374899C00BD56F3 /* InfoPlist.strings */,
 				0ABA683D1374899C00BD56F3 /* main.m */,
@@ -162,6 +168,8 @@
 				0ABA68421374899C00BD56F3 /* Credits.rtf in Resources */,
 				0ABA68481374899C00BD56F3 /* MainMenu.xib in Resources */,
 				0ABA685613748A1700BD56F3 /* scm.jpeg in Resources */,
+				0ABA685913748AA200BD56F3 /* svn-logo.png in Resources */,
+				0ABA685B13748AAB00BD56F3 /* git-logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
